@@ -24,7 +24,10 @@ https://github.com/Piyush0422120/bikers-club/blob/main/Pandas/Bikers_club_Analyt
   
 ---
 
-## SQL
+## SQL  
+
+All 18 queries are implemented using MySQL, with code and output snapshots provided for 5 of them.  
+
 #1 Total Revenue, Total orders, AOV <BR>
 
 ```
@@ -191,5 +194,6 @@ ORDER BY revenue_2018 DESC;
 
 <BR>
 
-You can check out the SQL code (queries) at: https://github.com/Piyush0422120/bikers-club/blob/main/SQL/Queries.sql
+You can check out the SQL code (queries) at:  
+https://github.com/Piyush0422120/bikers-club/blob/main/SQL/Queries.sql
 
