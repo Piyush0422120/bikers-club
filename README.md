@@ -8,7 +8,7 @@ Total number of Queries: 18  <br><br>
 
 
 -    [Jump to Pandas Section](#pandas)
--    [Jump to SQL Snapshots](#snapshots)
+-    [Jump to SQL Snapshots](#SQL)
 
 
 ---
