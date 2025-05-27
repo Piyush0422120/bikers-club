@@ -16,7 +16,8 @@ Total number of Queries: 18  <br><br>
 
 
 1) The project features 18 data queries implemented using Pandas. (refered to as insights in jupyter notebook)
-2) Data visualization is handled using Matplotlib and Pandas’ built-in plotting capabilities.
+2) It also feautres 7 CLI based parameters for drill down analytics: Date, customer, store, products, brands, categories
+3) Data visualization is handled using Matplotlib and Pandas’ built-in plotting capabilities.
 
 You can check out the jupyter notebook at:    
 https://github.com/Piyush0422120/bikers-club/blob/main/Pandas/Bikers_club_Analytics.ipynb
